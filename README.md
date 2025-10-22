@@ -1,6 +1,6 @@
 # OCSIventory-Debian
 <p align = "center">
-<img width="2442" height="1104" alt="Image" src="https://github.com/user-attachments/assets/3d6ba167-41c7-4b30-9cbc-4ce34e426aa2" width="200" height="200" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/3d6ba167-41c7-4b30-9cbc-4ce34e426aa2" />
 
 Mise à jour des paqutes et du noyau Linux
 ```bash
